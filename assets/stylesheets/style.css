@@ -15,3 +15,7 @@ hr {border-top: 2px dashed gray;}
   border-radius: 6px;
   margin-bottom: 22px;
 }
+
+.md-ellipsis {
+	color: #9ab2bc;
+}
