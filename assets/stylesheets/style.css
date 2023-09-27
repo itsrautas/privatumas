@@ -1,17 +1,4 @@
 
 
-body {
-	background-color: #222;
-        color: #fff;
-}
-
 hr {border-top: 2px dashed gray;}
 
-/* Content */
-
-.container {
-  background-color: #2f363d;
-  padding: 5px 15px 1px 15px;
-  border-radius: 6px;
-  margin-bottom: 22px;
-}
