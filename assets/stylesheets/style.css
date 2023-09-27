@@ -5,9 +5,7 @@ body {
         color: #fff;
 }
 
-hr {
-	background-color: #fff;
-}
+hr {border-top: 2px dashed gray;}
 
 /* Content */
 
@@ -17,9 +15,3 @@ hr {
   border-radius: 6px;
   margin-bottom: 22px;
 }
-
-img.app {width: 70px; max-height: 70px; float: left; margin: 10px 20px 0 0;}
-img.incogni {width: 140px; max-height: 140px; float: left; margin: 10px 20px 0 0;}
-h3.app {font-size: 18px; margin-top: 10px; }
-h5.app {font-size: 18px; margin-top: 10px; }
-.tags {margin-top: 10px; margin-bottom: 20px;}
