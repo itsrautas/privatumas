@@ -1120,8 +1120,8 @@ input:checked+.md-consent__settings {
   transform:translateY(0)
 }
 .md-footer {
-  background-color:var(--md-footer-bg-color);
-  color:var(--md-footer-fg-color)
+  background-color: #1a1a1a;
+  color: #fff;
 }
 @media print {
   .md-footer {
