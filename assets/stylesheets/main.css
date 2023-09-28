@@ -1292,7 +1292,7 @@ html .md-footer-meta.md-typeset a:hover {
   width:100%
 }
 .md-header {
-  background-color: #0d0d0d;
+  background-color: #1f2226;
   box-shadow:0 0 .2rem #0000,0 .2rem .4rem #0000;
   color:var(--md-primary-bg-color);
   display:block;
