@@ -227,7 +227,7 @@ pre {
   margin:1.25em 0
 }
 .md-typeset h5 {
-  text-transform:uppercase
+  text-transform:none;
 }
 .md-typeset hr {
   border-bottom:.05rem solid var(--md-default-fg-color--lightest);
