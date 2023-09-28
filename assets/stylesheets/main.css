@@ -1197,7 +1197,7 @@ input:checked+.md-consent__settings {
   display:flex;
   flex-wrap:wrap;
   justify-content:space-between;
-  padding:.2rem
+  padding:2rem 0 2rem 0rem;
 }
 html .md-footer-meta.md-typeset a {
   color:var(--md-footer-fg-color--light)
