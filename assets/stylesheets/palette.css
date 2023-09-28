@@ -209,7 +209,7 @@
   --md-primary-bg-color--light:#ffffffb3
 }
 [data-md-color-primary=indigo] {
-  --md-primary-fg-color:#fff;
+  --md-primary-fg-color:#dbdbdb;
   --md-primary-fg-color--light:#5d6cc0;
   --md-primary-fg-color--dark:#303fa1;
   --md-primary-bg-color:#fff;
