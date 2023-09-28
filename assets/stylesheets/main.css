@@ -1120,7 +1120,7 @@ input:checked+.md-consent__settings {
   transform:translateY(0)
 }
 .md-footer {
-  background-color: #1a1a1a;
+  background-color: #0000008c;
   color: #fff;
 }
 @media print {
