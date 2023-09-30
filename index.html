@@ -13,8 +13,8 @@
 	  <link rel="icon" href="assets/brand/png/favicon/favicon.png">
           <link rel="stylesheet" href="assets/stylesheets/main.css">
 	  <link rel="stylesheet" href="assets/stylesheets/style.css">
-	  
-                
+	  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	     
 </head>
     
     
@@ -41,7 +41,6 @@
             <div class="md-header__topic">
             <span class="md-ellipsis">
 		    <div id="antraste"></div>
-			
             </span>
             </div>
             <div class="md-header__topic" data-md-component="header-topic">
@@ -1859,7 +1858,7 @@ Signal - šifruoti pokalbiai</a>
         
       </main>
       
-        <!--  -->
+        
 <footer class="md-footer">
         <div class="md-footer-meta__inner md-grid">
         <div class="md-copyright">
@@ -1874,11 +1873,18 @@ Signal - šifruoti pokalbiai</a>
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    
+
+	
     <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tracking", "navigation.tabs", "navigation.sections", "navigation.expand", "navigation.path", "navigation.indexes", "content.tabs.link", "content.tooltips", "search.highlight"], "search": "../assets/javascripts/workers/search.6c7302c4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
 
+	
+    <script>
+	$(function(){
 
-
+	$("#antraste").load("antraste.html");
+	$("#poraste").load("poraste.html");
+		});
+    </script>
 
 	
       <script src="assets/javascripts/bundle.7c5c0157.min.js"></script>
