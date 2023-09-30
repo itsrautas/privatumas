@@ -1865,7 +1865,7 @@ Signal - šifruoti pokalbiai</a>
         <div class="md-footer-meta__inner md-grid">
         <div class="md-copyright">
     <div class="md-copyright__highlight">
-	<div data-include="poraste"></div>
+	<div id="poraste"></div>
     </div>
         </div>
         </div>
@@ -1879,15 +1879,11 @@ Signal - šifruoti pokalbiai</a>
     <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tracking", "navigation.tabs", "navigation.sections", "navigation.expand", "navigation.path", "navigation.indexes", "content.tabs.link", "content.tooltips", "search.highlight"], "search": "../assets/javascripts/workers/search.6c7302c4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
 
 
-<script>
-	$(function () {
-  var includes = $('[data-include]')
-  $.each(includes, function () {
-    $(this).data('include') + 'poraste.html'
-    $(this).load(file)
-  })
-})
-</script>
+<script> 
+    $(function(){
+      $("#poraste").load("poraste.html"); 
+    });
+    </script> 
 
 
 	
