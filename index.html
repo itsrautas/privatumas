@@ -1883,7 +1883,7 @@ Signal - šifruoti pokalbiai</a>
 	$(function () {
   var includes = $('[data-include]')
   $.each(includes, function () {
-    var file = 'poraste.html' + $(this).data('include') + '.html'
+    $(this).data('include') + 'poraste.html'
     $(this).load(file)
   })
 })
