@@ -1884,7 +1884,7 @@ html .md-footer-meta.md-typeset a:hover {
   }
   .md-nav__item--section {
     display:block;
-    margin:1.25em 0
+    margin:0 0 1.25em 0
   }
   .md-nav__item--section:last-child {
     margin-bottom:0
