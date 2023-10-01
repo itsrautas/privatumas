@@ -991,7 +991,7 @@ input:checked+.md-consent__settings {
 .md-content__inner:before {
   content:"";
   display:block;
-  height:.4rem
+  height:0rem
 }
 .md-content__inner>:last-child {
   margin-bottom:0
