@@ -1551,7 +1551,7 @@ html .md-footer-meta.md-typeset a:hover {
 .md-nav__link {
   align-items:flex-start;
   display:flex;
-  margin-top:.625em;
+  /*margin-top:.625em;*/
   scroll-snap-align:start;
   transition:color 125ms
 }
