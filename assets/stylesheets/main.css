@@ -974,7 +974,7 @@ input:checked+.md-consent__settings {
 }
 .md-content__inner {
   margin:0 .8rem 1.2rem;
-  padding-top:.6rem
+  /*padding-top:.6rem*/
 }
 @media screen and (min-width:76.25em) {
   [dir=ltr] .md-sidebar--primary:not([hidden])~.md-content>.md-content__inner {
