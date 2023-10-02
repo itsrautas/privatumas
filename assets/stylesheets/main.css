@@ -1644,8 +1644,8 @@ html .md-footer-meta.md-typeset a:hover {
     line-height:1.5
   }
   .md-nav--primary .md-nav__title {
-    background-color:var(--md-default-fg-color--lightest);
-    color:var(--md-default-fg-color--light);
+    background-color: #1f2226;
+    color: #dbdbdb;
     cursor:pointer;
     line-height:2.4rem;
     padding:1rem .8rem 1rem;
