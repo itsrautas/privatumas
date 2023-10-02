@@ -1822,10 +1822,10 @@ html .md-footer-meta.md-typeset a:hover {
     display:flex
   }
   .md-nav__source {
-    background-color:var(--md-primary-fg-color--dark);
-    color:var(--md-primary-bg-color);
-    display:block;
-    padding:0 .2rem
+    background-color: #171717;
+    color: #fff;
+    display: block;
+    padding: .5rem .8rem .5rem;
   }
 }
 @media screen and (min-width:60em) and (max-width:76.1875em) {
