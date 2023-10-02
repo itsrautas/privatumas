@@ -3747,7 +3747,7 @@ code .md-annotation {
 }
 .md-typeset .admonition,
 .md-typeset details {
-  background-color:var(--md-admonition-bg-color);
+  background-color: #151515;
   border:.05rem solid #448aff;
   border-radius:.2rem;
   box-shadow:var(--md-shadow-z1);
