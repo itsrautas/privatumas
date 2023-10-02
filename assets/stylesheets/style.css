@@ -7,10 +7,7 @@
   margin-bottom: 22px;
 }
 img.app {width: 70px; max-height: 70px; float: left; margin: 10px 20px 0 0;}
-img.incogni {width: 140px; max-height: 140px; float: left; margin: 10px 20px 0 0;}
-h3.app {font-size: 18px; margin-top: 10px; }
-h5.app {font-size: 18px; margin-top: 10px; }
-app {font-size: .9rem; margin-top: 10px; }
+font.app {font-size: .9rem; margin-top: 10px; }
 
 
 hr {border-top: 1px solid #634ceb;}
