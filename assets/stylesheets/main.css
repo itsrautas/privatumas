@@ -1647,9 +1647,8 @@ html .md-footer-meta.md-typeset a:hover {
     background-color:var(--md-default-fg-color--lightest);
     color:var(--md-default-fg-color--light);
     cursor:pointer;
-    height:5.6rem;
     line-height:2.4rem;
-    padding:3rem .8rem .2rem;
+    padding:1rem .8rem 1rem;
     position:relative;
     white-space:nowrap
   }
