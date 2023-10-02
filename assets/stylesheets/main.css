@@ -462,6 +462,7 @@ pre {
 }
 .md-typeset img[align]:only-child {
   margin-top:0
+  max-width: 8%;
 }
 .md-typeset figure {
   display:flow-root;
