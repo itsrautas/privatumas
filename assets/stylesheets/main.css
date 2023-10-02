@@ -1693,8 +1693,8 @@ html .md-footer-meta.md-typeset a:hover {
     border-top:0
   }
   .md-nav--primary .md-nav__title[for=__drawer] {
-    background-color: #000;
-    color: #fff;
+    background-color: #1f2226;
+    color: #dbdbdb;
     font-weight: 700;
   }
   .md-nav--primary .md-nav__title .md-logo {
