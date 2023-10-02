@@ -230,9 +230,9 @@ pre {
   text-transform:none;
 }
 .md-typeset hr {
-  border-bottom:.05rem solid var(--md-default-fg-color--lightest);
   display:flow-root;
-  margin:1.5em 0
+  border-top: 1px solid #634ceb;
+  margin: 50px 0;
 }
 .md-typeset a {
   color:var(--md-typeset-a-color);
