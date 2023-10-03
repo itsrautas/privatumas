@@ -3749,7 +3749,7 @@ code .md-annotation {
   background-color: #151515;
   color:var(--md-admonition-fg-color);
   display:flow-root;
-  font-size:.64rem;
+  font-size: .8rem;
   margin:1.5625em 0;
   padding:0 .6rem;
   page-break-inside:avoid
