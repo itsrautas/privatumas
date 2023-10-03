@@ -461,8 +461,8 @@ pre {
   margin:1em 0 1em 1em
 }
 .md-typeset img[align]:only-child {
-  margin-top:0;
-  max-width: 8%;
+  margin-top: 0;
+  max-width: 9%;
 }
 .md-typeset figure {
   display:flow-root;
