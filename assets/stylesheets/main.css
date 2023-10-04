@@ -4309,7 +4309,7 @@ html .md-typeset .footnote-ref {
   outline:none
 }
 [dir=ltr] .md-typeset summary:after {
-  right:.4rem
+ /* right:.4rem */
 }
 [dir=rtl] .md-typeset summary:after {
   left:.4rem
