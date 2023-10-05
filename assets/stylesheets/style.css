@@ -17,4 +17,5 @@ h5.app {
 }
 .admonition {
   background-color: #151515;
+  border-radius: 6px;
 }
