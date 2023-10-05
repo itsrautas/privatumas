@@ -3746,7 +3746,6 @@ code .md-annotation {
 }
 .md-typeset .admonition,
 .md-typeset details {
-  background-color: #151515;
   color:var(--md-admonition-fg-color);
   display:flow-root;
   font-size: .8rem;
