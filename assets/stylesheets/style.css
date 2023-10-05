@@ -15,4 +15,6 @@ h5.app {
   font-size: .9rem; 
   margin-top: 10px; 
 }
-
+.admonition {
+  background-color: #151515;
+}
