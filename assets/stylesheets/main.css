@@ -1257,7 +1257,7 @@ html .md-footer-meta.md-typeset a:hover {
 .md-typeset .md-button--primary {
   background-color:var(--md-primary-fg-color);
   border-color:var(--md-primary-fg-color);
-  color:var(--md-primary-bg-color)
+  color:#000000c4;
 }
 .md-typeset .md-button:focus,
 .md-typeset .md-button:hover {
