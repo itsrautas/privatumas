@@ -3784,7 +3784,7 @@ code .md-annotation {
 }
 html .md-typeset .admonition>:last-child,
 html .md-typeset details>:last-child {
-  margin-bottom:.6rem
+  /*margin-bottom:.6rem*/
 }
 [dir=ltr] .md-typeset .admonition-title,
 [dir=ltr] .md-typeset summary {
