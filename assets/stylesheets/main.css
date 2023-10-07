@@ -4342,7 +4342,7 @@ html .md-typeset .footnote-ref {
 .md-typeset .emojione,
 .md-typeset .gemoji,
 .md-typeset .twemoji {
-  --md-icon-size:1.125em;
+  --md-icon-size:1.4em;
   display:inline-flex;
   height:var(--md-icon-size);
   vertical-align:text-top
