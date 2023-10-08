@@ -1,52 +1,34 @@
-
 document.getElementById("navigacija").innerHTML =
-<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+'<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">'+
   
-<label class="md-nav__title" for="__drawer">
-    IT SRAUTAS
-  </label>
-<div class="md-nav__source">
-	Navigacija
-</div>
+'<label class="md-nav__title" for="__drawer">IT SRAUTAS</label>'+
+'<div class="md-nav__source">Navigacija</div>'+
 
 
-<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+'<li class="md-nav__item md-nav__item--section md-nav__item--nested">'+
           
         
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        '<input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2">'+
         
-          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+          '<label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">'+
             
   
-  <span class="md-ellipsis">
-    
-  
-    Paješkos naršyklės
-  
-
-    
-  </span>
+            '<span class="md-ellipsis">Paješkos naršyklės</span>'+
   
   
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+        '<span class="md-nav__icon md-icon"></span>'+
+          </label>'+
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_3_2">
-            <span class="md-nav__icon md-icon"></span>
+        '<nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">'+
+          '<label class="md-nav__title" for="__nav_3_2">'+
+            '<span class="md-nav__icon md-icon"></span>'+
             
   
+          '</label>'+
 
-          </label>
-
-<div class="md-nav__source">
-
-    Paješkos naršyklės
-
-  </div>
+'<div class="md-nav__source">Paješkos naršyklės</div>'+
 		
-          <ul class="md-nav__list" data-md-scrollfix>
+          '<ul class="md-nav__list" data-md-scrollfix>'+
             
               
                 
@@ -57,57 +39,41 @@ document.getElementById("navigacija").innerHTML =
   
   
   
-    <li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/narsykles.html" class="md-nav__link">
+    '<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/narsykles.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 6h16v10H4m16 2a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H4c-1.11 0-2 .89-2 2v10a2 2 0 0 0 2 2H0v2h24v-2h-4Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 6h16v10H4m16 2a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H4c-1.11 0-2 .89-2 2v10a2 2 0 0 0 2 2H0v2h24v-2h-4Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-     Naršyklės
-  
-
-    
-  </span>
+  '<span class="md-ellipsis">Naršyklės</span>'+
   
   
-
-      </a>
-    </li>
-
+      '</a>'+
+    '</li>'+
 
 
 
 
 
-		  <li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/priedai.html" class="md-nav__link">
+
+		  '<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/priedai.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 6h16v10H4m16 2a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H4c-1.11 0-2 .89-2 2v10a2 2 0 0 0 2 2H0v2h24v-2h-4Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 6h16v10H4m16 2a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H4c-1.11 0-2 .89-2 2v10a2 2 0 0 0 2 2H0v2h24v-2h-4Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-     Priedai
-  
-
-    
-  </span>
+  '<span class="md-ellipsis">Priedai</span>'+
   
   
-
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
   
               
             
-          </ul>
-        </nav>
+          '</ul>'+
+        '</nav>'+
       
-    </li>
+    '</li>'+
   
 
               
@@ -1106,6 +1072,6 @@ document.getElementById("navigacija").innerHTML =
               
             
           </ul>
-        </nav>
+        '</nav>;
       
     
