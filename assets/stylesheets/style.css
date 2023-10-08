@@ -62,3 +62,6 @@ h5.app {
     transform: translate(-50%, -50%);
     color: white;
 }
+.md-header__title {
+  font-weight: 700;
+}
