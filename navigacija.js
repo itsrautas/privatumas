@@ -13,11 +13,11 @@ document.getElementById("navigacija").innerHTML =
           '<label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">'+
             
   
-            '<span class="md-ellipsis">Paješkos naršyklės</span>'+
+  '<span class="md-ellipsis">Paješkos naršyklės</span>'+
   
   
-        '<span class="md-nav__icon md-icon"></span>'+
-          </label>'+
+             '<span class="md-nav__icon md-icon"></span>'+
+          '</label>'+
         
         '<nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">'+
           '<label class="md-nav__title" for="__nav_3_2">'+
@@ -102,7 +102,7 @@ document.getElementById("navigacija").innerHTML =
     
       
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    '<li class="md-nav__item md-nav__item--section md-nav__item--nested">'+
       
         
         
@@ -110,39 +110,27 @@ document.getElementById("navigacija").innerHTML =
         
           
         
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_3" >
+        '<input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_3">'+
         
-          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+          '<label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">'+
             
   
-  <span class="md-ellipsis">
-    
-  
-    Paslaugos
+  '<span class="md-ellipsis">Paslaugos</span>'+
   
 
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+            '<span class="md-nav__icon md-icon"></span>'+
+          '</label>'+
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_3_3">
-            <span class="md-nav__icon md-icon"></span>
+        '<nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">'+
+          '<label class="md-nav__title" for="__nav_3_3">'+
+            '<span class="md-nav__icon md-icon"></span>'+
             
   
-          </label>
+          '</label>'+
 
-<div class="md-nav__source">
-
-    Paslaugos
-
-  </div>
+'<div class="md-nav__source">Paslaugos</div>'+
 		
-          <ul class="md-nav__list" data-md-scrollfix>
+          '<ul class="md-nav__list" data-md-scrollfix>'+
             
               
                 
@@ -152,25 +140,17 @@ document.getElementById("navigacija").innerHTML =
 
 
 
-<li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/soctinklai.html" class="md-nav__link">
+'<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/soctinklai.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>'+     
   
-  <span class="md-ellipsis">
-    
-  
-    Socialiniai tinklai
-  
-
-    
-  </span>
+  '<span class="md-ellipsis">Socialiniai tinklai</span>'+
   
   
-
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
 
 
 
@@ -179,25 +159,17 @@ document.getElementById("navigacija").innerHTML =
 
 
 
-<li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/soctinklai.html" class="md-nav__link">
+'<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/soctinklai.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-    Dirbtinis intelektas
+  '<span class="md-ellipsis">Dirbtinis intelektas</span>'+
   
 
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
 
 
 
@@ -206,25 +178,18 @@ document.getElementById("navigacija").innerHTML =
 
 
 
-<li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/soctinklai.html" class="md-nav__link">
+'<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/soctinklai.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-    Vertėjas
-  
-
-    
-  </span>
+  '<span class="md-ellipsis">Vertėjas</span>'+
   
   
 
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
 
 
 
@@ -1050,12 +1015,12 @@ document.getElementById("navigacija").innerHTML =
   
 
     
-  </span>
+  '</span>'+
   
   
 
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
   
 
 
@@ -1063,15 +1028,15 @@ document.getElementById("navigacija").innerHTML =
 
 		  
             
-          </ul>
-        </nav>
+          '</ul>'+
+        '</nav>'+
       
-    </li>
+    '</li>'+
   
 
               
             
-          </ul>
+          '</ul>'+
         '</nav>;
       
     
