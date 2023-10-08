@@ -198,25 +198,17 @@ document.getElementById("navigacija").innerHTML =
 
 
 
-		  <li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/soctinklai.html" class="md-nav__link">
+'<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/soctinklai.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-    Žemėlapis
+  '<span class="md-ellipsis">Žemėlapis</span>'+
   
 
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
 
 
 
@@ -225,25 +217,17 @@ document.getElementById("navigacija").innerHTML =
 
 
 
-<li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/istrinti.html" class="md-nav__link">
+'<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/istrinti.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-    Paskyros ištrynimas
+  '<span class="md-ellipsis">Paskyros ištrynimas</span>'+
   
 
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
 
 
 
@@ -253,25 +237,17 @@ document.getElementById("navigacija").innerHTML =
 
 
   
-    <li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/saugyklos.html" class="md-nav__link">
+    '<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/saugyklos.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 9h5.5L13 3.5V9M6 2h8l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.11.89-2 2-2m9.68 13a3.758 3.758 0 0 0-7-1A3.028 3.028 0 0 0 6 17a3 3 0 0 0 3 3h6.5a2.5 2.5 0 0 0 2.5-2.5c0-1.32-1.03-2.39-2.32-2.5Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 9h5.5L13 3.5V9M6 2h8l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.11.89-2 2-2m9.68 13a3.758 3.758 0 0 0-7-1A3.028 3.028 0 0 0 6 17a3 3 0 0 0 3 3h6.5a2.5 2.5 0 0 0 2.5-2.5c0-1.32-1.03-2.39-2.32-2.5Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-    Debesų saugyklos
+  '<span class="md-ellipsis">Debesų saugyklos</span>'+
   
 
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
   
 
               
@@ -281,25 +257,17 @@ document.getElementById("navigacija").innerHTML =
   
   
   
-    <li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/dns.html" class="md-nav__link">
+    '<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/dns.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 9a2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2 2 2 0 0 1-2 2m13-6H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1M7 19a2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2 2 2 0 0 1-2 2m13-6H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 9a2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2 2 2 0 0 1-2 2m13-6H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1M7 19a2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2 2 2 0 0 1-2 2m13-6H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-    DNS
+  '<span class="md-ellipsis">DNS</span>'+
   
 
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
   
 
               
@@ -309,25 +277,17 @@ document.getElementById("navigacija").innerHTML =
   
   
   
-    <li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/elpastas.html" class="md-nav__link">
+    '<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/elpastas.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m20 8-8 5-8-5V6l8 5 8-5m0-2H4c-1.11 0-2 .89-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m20 8-8 5-8-5V6l8 5 8-5m0-2H4c-1.11 0-2 .89-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-    El. pašto paslaugos
-  
-
-    
-  </span>
+  '<span class="md-ellipsis">El. pašto paslaugos</span>'+
   
   
-
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
   
 
               
@@ -337,25 +297,17 @@ document.getElementById("navigacija").innerHTML =
   
   
   
-    <li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/finansai.html" class="md-nav__link">
+    '<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/finansai.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.5 1 2 6v2h19V6m-5 4v7h3v-7M2 22h19v-3H2m8-9v7h3v-7m-9 0v7h3v-7H4Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.5 1 2 6v2h19V6m-5 4v7h3v-7M2 22h19v-3H2m8-9v7h3v-7m-9 0v7h3v-7H4Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-    Finansinės paslaugos
-  
-
-    
-  </span>
+  '<span class="md-ellipsis">Finansinės paslaugos</span>'+
   
   
-
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
   
 
               
@@ -365,25 +317,17 @@ document.getElementById("navigacija").innerHTML =
   
   
   
-    <li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/paieska.html" class="md-nav__link">
+    '<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/paieska.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 14 5 5-1.5 1.5-5-5v-.79l-.27-.28A6.471 6.471 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3 6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.57 4.23l.28.27h.79m-6-9.5-.55.03c-.24.52-.61 1.4-.88 2.47h2.86c-.27-1.07-.64-1.95-.88-2.47-.18-.03-.36-.03-.55-.03M13.83 7a4.943 4.943 0 0 0-2.68-2.22c.24.53.55 1.3.78 2.22h1.9M5.17 7h1.9c.23-.92.54-1.69.78-2.22A4.943 4.943 0 0 0 5.17 7M4.5 9.5c0 .5.08 1.03.23 1.5h2.14l-.12-1.5.12-1.5H4.73c-.15.47-.23 1-.23 1.5m9.77 1.5c.15-.47.23-1 .23-1.5s-.08-1.03-.23-1.5h-2.14a9.48 9.48 0 0 1 0 3h2.14m-6.4-3-.12 1.5.12 1.5h3.26a9.48 9.48 0 0 0 0-3H7.87m1.63 6.5c.18 0 .36 0 .53-.03.25-.52.63-1.4.9-2.47H8.07c.27 1.07.65 1.95.9 2.47l.53.03m4.33-2.5h-1.9c-.23.92-.54 1.69-.78 2.22A4.943 4.943 0 0 0 13.83 12m-8.66 0a4.943 4.943 0 0 0 2.68 2.22c-.24-.53-.55-1.3-.78-2.22h-1.9Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 14 5 5-1.5 1.5-5-5v-.79l-.27-.28A6.471 6.471 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3 6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.57 4.23l.28.27h.79m-6-9.5-.55.03c-.24.52-.61 1.4-.88 2.47h2.86c-.27-1.07-.64-1.95-.88-2.47-.18-.03-.36-.03-.55-.03M13.83 7a4.943 4.943 0 0 0-2.68-2.22c.24.53.55 1.3.78 2.22h1.9M5.17 7h1.9c.23-.92.54-1.69.78-2.22A4.943 4.943 0 0 0 5.17 7M4.5 9.5c0 .5.08 1.03.23 1.5h2.14l-.12-1.5.12-1.5H4.73c-.15.47-.23 1-.23 1.5m9.77 1.5c.15-.47.23-1 .23-1.5s-.08-1.03-.23-1.5h-2.14a9.48 9.48 0 0 1 0 3h2.14m-6.4-3-.12 1.5.12 1.5h3.26a9.48 9.48 0 0 0 0-3H7.87m1.63 6.5c.18 0 .36 0 .53-.03.25-.52.63-1.4.9-2.47H8.07c.27 1.07.65 1.95.9 2.47l.53.03m4.33-2.5h-1.9c-.23.92-.54 1.69-.78 2.22A4.943 4.943 0 0 0 13.83 12m-8.66 0a4.943 4.943 0 0 0 2.68 2.22c-.24-.53-.55-1.3-.78-2.22h-1.9Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-    Paieškos sistemos
+  '<span class="md-ellipsis">Paieškos sistemos</span>'+
   
 
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
   
 
               
@@ -393,33 +337,25 @@ document.getElementById("navigacija").innerHTML =
   
   
   
-    <li class="md-nav__item">
-      <a href="https://itsrautas.github.io/privatumas/kategorija/vpn.html" class="md-nav__link">
+    '<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/vpn.html" class="md-nav__link">'+
         
   
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 5h6l-3 3-3-3m1.5 9.66c-.3.34-.5.84-.5 1.34a2 2 0 0 0 2 2 2 2 0 0 0 2-2c0-.55-.22-1.05-.59-1.41l1.42-1.42C15.55 13.9 16 14.9 16 16a4 4 0 0 1-4 4 4 4 0 0 1-4-4c0-1.07.42-2.04 1.1-2.75l-.01-.01 7.08-7.07A3.99 3.99 0 0 1 19 5a4 4 0 0 1 4 4 4 4 0 0 1-4 4c-1.1 0-2.1-.45-2.83-1.17l1.42-1.42c.36.37.86.59 1.41.59a2 2 0 0 0 2-2 2 2 0 0 0-2-2c-.55 0-1.05.22-1.41.59l-7.09 7.07M6.41 7.59C6.05 7.22 5.55 7 5 7a2 2 0 0 0-2 2 2 2 0 0 0 2 2c.55 0 1.05-.22 1.41-.59l1.42 1.42C7.1 12.55 6.1 13 5 13a4 4 0 0 1-4-4 4 4 0 0 1 4-4c1.11 0 2.11.45 2.83 1.17l2.76 2.76-1.42 1.42-2.76-2.76Z"/></svg>
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 5h6l-3 3-3-3m1.5 9.66c-.3.34-.5.84-.5 1.34a2 2 0 0 0 2 2 2 2 0 0 0 2-2c0-.55-.22-1.05-.59-1.41l1.42-1.42C15.55 13.9 16 14.9 16 16a4 4 0 0 1-4 4 4 4 0 0 1-4-4c0-1.07.42-2.04 1.1-2.75l-.01-.01 7.08-7.07A3.99 3.99 0 0 1 19 5a4 4 0 0 1 4 4 4 4 0 0 1-4 4c-1.1 0-2.1-.45-2.83-1.17l1.42-1.42c.36.37.86.59 1.41.59a2 2 0 0 0 2-2 2 2 0 0 0-2-2c-.55 0-1.05.22-1.41.59l-7.09 7.07M6.41 7.59C6.05 7.22 5.55 7 5 7a2 2 0 0 0-2 2 2 2 0 0 0 2 2c.55 0 1.05-.22 1.41-.59l1.42 1.42C7.1 12.55 6.1 13 5 13a4 4 0 0 1-4-4 4 4 0 0 1 4-4c1.11 0 2.11.45 2.83 1.17l2.76 2.76-1.42 1.42-2.76-2.76Z"/></svg>'+
   
-  <span class="md-ellipsis">
-    
-  
-    VPN
+  '<span class="md-ellipsis">VPN</span>'+
   
 
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
+      '</a>'+
+    '</li>'+
   
 
               
             
-          </ul>
-        </nav>
+          '</ul>'+
+        '</nav>'+
       
-    </li>
+    '</li>'+
   
 
               
@@ -1037,6 +973,6 @@ document.getElementById("navigacija").innerHTML =
               
             
           '</ul>'+
-        '</nav>;
+        '</nav>';
       
     
