@@ -13,7 +13,6 @@
 	  <link rel="icon" href="https://itsrautas.github.io/privatumas/img/favicon.png">
           <link rel="stylesheet" href="https://itsrautas.github.io/privatumas/assets/stylesheets/main.css">
 	  <link rel="stylesheet" href="https://itsrautas.github.io/privatumas/assets/stylesheets/style.css">
-	  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 	     
 </head>
     
@@ -36,7 +35,7 @@
            <div class="md-header__title" data-md-component="header-title">
            <div class="md-header__ellipsis">
               <span class="md-ellipsis">
-	      <div id="antraste"></div>
+	      <nav id="antraste"></nav>
               </span>
            </div>
            </div>
@@ -62,7 +61,7 @@
     
   
       
-     <div id="navigacija"></div>
+     <nav id="navigacija"></nav>
    
       
 
@@ -218,7 +217,7 @@
 	 <div class="md-footer-meta__inner md-grid">
 		 
           <div class="md-copyright">
-	   <div id="poraste"></div>
+	   <nav id="poraste"></nav>
 		  
 	  </div>
          </div>
@@ -234,17 +233,12 @@
     <script id="__config" type="application/json">{"base": "..", "features": []}</script>
 
 
-        <script>
-	$(function(){
-
-	$("#antraste").load("https://itsrautas.github.io/privatumas/antraste.html");
-	$("#poraste").load("https://itsrautas.github.io/privatumas/poraste.html");
-	$("#navigacija").load("https://itsrautas.github.io/privatumas/navigacija.html");
-		});
-        </script>
+    <script src="https://itsrautas.github.io/privatumas/navigacija.js"></script>
+    <script src="https://itsrautas.github.io/privatumas/antraste.js"></script>
+    <script src="https://itsrautas.github.io/privatumas/poraste.js"></script>
 	    
     
-      <script src="https://itsrautas.github.io/privatumas/assets/javascripts/bundle.min.js"></script>
+    <script src="https://itsrautas.github.io/privatumas/assets/javascripts/bundle.min.js"></script>
         
         
       
