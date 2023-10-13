@@ -120,13 +120,13 @@ input {
   --md-typeset-table-color--light:rgba(0,0,0,.035);
   --md-admonition-fg-color:var(--md-default-fg-color);
   --md-admonition-bg-color:var(--md-default-bg-color);
-  --md-warning-fg-color:#000000de;
+ /* --md-warning-fg-color:#000000de;
   --md-warning-bg-color:#ff9;
   --md-footer-fg-color:#fff;
   --md-footer-fg-color--light:#ffffffb3;
   --md-footer-fg-color--lighter:#ffffff73;
   --md-footer-bg-color:#000000de;
-  --md-footer-bg-color--dark:#00000052;
+  --md-footer-bg-color--dark:#00000052;*/
 }
 .md-icon svg {
   fill:currentcolor;
