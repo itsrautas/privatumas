@@ -452,6 +452,7 @@ pre {
 }
 .md-typeset img[align]:only-child {
   margin-top: 0;
+  width: 70px;
   max-height: 70px;
 }
 .md-typeset figure {
