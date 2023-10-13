@@ -1111,7 +1111,7 @@ input:checked+.md-consent__settings {
   transform:translateY(0)
 }
 .md-footer {
-  background-color: #00000042;
+  background-color: #00000070;
   color: #fff;
 }
 @media print {
