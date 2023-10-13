@@ -5262,14 +5262,6 @@ html .md-typeset .footnote-ref {
   -webkit-mask-image:var(--md-tasklist-icon--checked);
   mask-image:var(--md-tasklist-icon--checked)
 }
-:root>* {
-  --md-mermaid-font-family:var(--md-text-font-family),sans-serif;
-  --md-mermaid-edge-color:var(--md-code-fg-color);
-  --md-mermaid-node-bg-color:var(--md-accent-fg-color--transparent);
-  --md-mermaid-node-fg-color:var(--md-accent-fg-color);
-  --md-mermaid-label-bg-color:var(--md-default-bg-color);
-  --md-mermaid-label-fg-color:var(--md-code-fg-color)
-}
 .mermaid {
   line-height:normal;
   margin:1em 0
