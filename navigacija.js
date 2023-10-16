@@ -236,7 +236,7 @@ document.getElementById("navigacija").innerHTML =
 
 
 '<li class="md-nav__item">'+
-      '<a href="https://justdeleteme.xyz" class="md-nav__link">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/paskyros.html" class="md-nav__link">'+
         
   
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>'+
@@ -573,7 +573,7 @@ document.getElementById("navigacija").innerHTML =
   
   
     '<li class="md-nav__item">'+
-      '<a href="../multi-factor-authentication/" class="md-nav__link">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/2fa.html" class="md-nav__link">'+
         
   
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 7v2h4v2H4a2 2 0 0 0-2 2v4h6v-2H4v-2h2a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2H2m7 0v10h2v-4h3v-2h-3V9h4V7H9m9 0a2 2 0 0 0-2 2v8h2v-3h2v3h2V9a2 2 0 0 0-2-2h-2m0 2h2v3h-2V9Z"/></svg>'+
@@ -633,7 +633,7 @@ document.getElementById("navigacija").innerHTML =
   
   
     '<li class="md-nav__item">'+
-      '<a href="../passwords/" class="md-nav__link">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/slaptazodziai.html" class="md-nav__link">'+
         
   
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7h5v10h-5v2a1 1 0 0 0 1 1h2v2h-2.5c-.55 0-1.5-.45-1.5-1 0 .55-.95 1-1.5 1H12v-2h2a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1h-2V2h2.5c.55 0 1.5.45 1.5 1 0-.55.95-1 1.5-1H20v2h-2a1 1 0 0 0-1 1v2M2 7h11v2H4v6h9v2H2V7m18 8V9h-3v6h3M8.5 12A1.5 1.5 0 0 0 7 10.5 1.5 1.5 0 0 0 5.5 12 1.5 1.5 0 0 0 7 13.5 1.5 1.5 0 0 0 8.5 12m4.5-1.11c-.61-.56-1.56-.51-2.12.11-.56.6-.51 1.55.12 2.11.55.52 1.43.52 2 0v-2.22Z"/></svg>'+
@@ -653,7 +653,7 @@ document.getElementById("navigacija").innerHTML =
   
   
     '<li class="md-nav__item">'+
-      '<a href="../productivity/" class="md-nav__link">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/produktyvumas.html" class="md-nav__link">'+
         
   
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19.7 12.9 14 18.6h-2.3v-2.3l5.7-5.7 2.3 2.3m3.4-.8c0 .3-.3.6-.6.9L20 15.5l-.9-.9 2.6-2.6-.6-.6-.7.7-2.3-2.3 2.2-2.1c.2-.2.6-.2.9 0l1.4 1.4c.2.2.2.6 0 .9-.2.2-.4.4-.4.6 0 .2.2.4.4.6.3.3.6.6.5.9M3 20V4h7v5h5v1.5l2-2V8l-6-6H3c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2H3m8-2.9c-.2 0-.4.1-.5.1L10 15H8.5l-2.1 1.7L7 14H5.5l-1 5H6l2.9-2.6.6 2.3h1l.5-.1v-1.5Z"/></svg>'+
@@ -693,7 +693,7 @@ document.getElementById("navigacija").innerHTML =
 
 
      '<li class="md-nav__item">'+
-      '<a href="../productivity/" class="md-nav__link">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/torentai.html" class="md-nav__link">'+
         
   
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19.7 12.9 14 18.6h-2.3v-2.3l5.7-5.7 2.3 2.3m3.4-.8c0 .3-.3.6-.6.9L20 15.5l-.9-.9 2.6-2.6-.6-.6-.7.7-2.3-2.3 2.2-2.1c.2-.2.6-.2.9 0l1.4 1.4c.2.2.2.6 0 .9-.2.2-.4.4-.4.6 0 .2.2.4.4.6.3.3.6.6.5.9M3 20V4h7v5h5v1.5l2-2V8l-6-6H3c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2H3m8-2.9c-.2 0-.4.1-.5.1L10 15H8.5l-2.1 1.7L7 14H5.5l-1 5H6l2.9-2.6.6 2.3h1l.5-.1v-1.5Z"/></svg>'+
