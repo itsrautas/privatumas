@@ -13,7 +13,7 @@ document.getElementById("navigacija").innerHTML =
           '<label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">'+
             
   
-  '<span class="md-ellipsis">Paješkos naršyklės</span>'+
+  '<span class="md-ellipsis">Paieškos naršyklės</span>'+
   
   
              '<span class="md-nav__icon md-icon"></span>'+
@@ -26,7 +26,7 @@ document.getElementById("navigacija").innerHTML =
   
           '</label>'+
 
-'<div class="md-nav__source">Paješkos naršyklės</div>'+
+'<div class="md-nav__source">Paieškos naršyklės</div>'+
 		
           '<ul class="md-nav__list" data-md-scrollfix>'+
             
