@@ -1388,6 +1388,7 @@ html .md-footer-meta.md-typeset a:hover {
   font-size:.85rem;
   /*height:2.4rem;*/
   /*line-height:2.4rem*/
+  padding: 1rem 0;
 }
 .md-header__title--active .md-header__topic {
   opacity:0;
