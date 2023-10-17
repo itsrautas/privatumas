@@ -124,8 +124,7 @@ input {
 .md-icon svg {
   fill:currentcolor;
   display:block;
-  height:1.2rem;
-  width:1.2rem
+  height:1.5rem;
 }
 body {
   -webkit-font-smoothing:antialiased;
