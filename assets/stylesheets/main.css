@@ -445,8 +445,8 @@ pre {
 }
 .md-typeset img[align]:only-child {
   margin-top: 0;
-  width: 70px;
-  max-height: 70px;
+  width: 60px;
+  max-height: 60px;
 }
 .md-typeset figure {
   display:flow-root;
