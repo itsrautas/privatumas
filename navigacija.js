@@ -154,24 +154,6 @@ document.getElementById("navigacija").innerHTML =
 
 
 
-
-
-
-
-'<li class="md-nav__item">'+
-      '<a href="https://itsrautas.github.io/privatumas/kategorija/vartotojo-sasajos.html" class="md-nav__link">'+
-        
-  
-    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>'+     
-  
-  '<span class="md-ellipsis">Vartotojo sąsajos</span>'+
-  
-  
-      '</a>'+
-    '</li>'+
-
-
-
 		  
 
 
@@ -566,7 +548,6 @@ document.getElementById("navigacija").innerHTML =
 
               
             
-  
 
                 
   
@@ -599,6 +580,24 @@ document.getElementById("navigacija").innerHTML =
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20 5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>'+
   
   '<span class="md-ellipsis">Naujienų skaitytuvai</span>'+
+  
+  
+      '</a>'+
+    '</li>'+
+
+
+
+
+
+
+
+    '<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/vartotojo-sasajos.html" class="md-nav__link">'+
+        
+  
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>'+     
+  
+  '<span class="md-ellipsis">Vartotojo sąsajos</span>'+
   
   
       '</a>'+
