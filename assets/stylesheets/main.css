@@ -214,8 +214,8 @@ pre {
 }
 .md-typeset hr {
   display:flow-root;
-  border-top: 1px solid #634ceb;
-  margin: 50px 0;
+  border-top: 1px solid rgb(66, 72, 75);
+  margin: 25px 0;
 }
 .md-typeset a {
   color:var(--md-typeset-a-color);
