@@ -452,7 +452,7 @@ document.getElementById("navigacija").innerHTML =
   
   
     '<li class="md-nav__item">'+
-      '<a href="../calendar/" class="md-nav__link">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/kalendorius.html" class="md-nav__link">'+
         
   
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5v-5Z"/></svg>'+
@@ -512,7 +512,7 @@ document.getElementById("navigacija").innerHTML =
   
   
     '<li class="md-nav__item">'+
-      '<a href="../email-clients/" class="md-nav__link">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/.html" class="md-nav__link">'+
         
   
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 8 8 5 8-5-8-5-8 5m18 0v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8c0-.73.39-1.36.97-1.71L12 .64l9.03 5.65c.58.35.97.98.97 1.71Z"/></svg>'+
@@ -593,7 +593,7 @@ document.getElementById("navigacija").innerHTML =
   
   
     '<li class="md-nav__item">'+
-      '<a href="../news-aggregators/" class="md-nav__link">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/skaitytuvai.html" class="md-nav__link">'+
         
   
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20 5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>'+
@@ -613,7 +613,7 @@ document.getElementById("navigacija").innerHTML =
   
   
     '<li class="md-nav__item">'+
-      '<a href="../notebooks/" class="md-nav__link">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/uzrasines.html" class="md-nav__link">'+
         
   
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m19.07 14.88 2.05 2.05L15.06 23H13v-2.06l6.07-6.06m1.97-1.75c.14 0 .27.06.38.17l1.28 1.28c.22.21.22.56 0 .77l-1 1-2.05-2.05 1-1c.11-.11.25-.17.39-.17M17 4v6l-2-2-2 2V4H9v16h2v2H7c-1.05 0-2-.95-2-2v-1H3v-2h2v-4H3v-2h2V7H3V5h2V4a2 2 0 0 1 2-2h12c1.05 0 2 .95 2 2v6l-2 2V4h-2M5 5v2h2V5H5m0 6v2h2v-2H5m0 6v2h2v-2H5Z"/></svg>'+
