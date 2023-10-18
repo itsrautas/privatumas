@@ -595,7 +595,7 @@ document.getElementById("navigacija").innerHTML =
       '<a href="https://itsrautas.github.io/privatumas/kategorija/vartotojo-sasajos.html" class="md-nav__link">'+
         
   
-    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2Z"/></svg>'+     
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21h2v-2H7m4 2h2v-2h-2m8-4H9V5h10m0-2H9c-1.11 0-2 .89-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2m-4 18h2v-2h-2M3 9h2V7H3m2 14v-2H3a2 2 0 0 0 2 2m-2-4h2v-2H3m0-2h2v-2H3v2Z"/></svg>'+
   
   '<span class="md-ellipsis">Vartotojo sąsajos</span>'+
   
