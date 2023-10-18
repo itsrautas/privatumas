@@ -1384,7 +1384,7 @@ html .md-footer-meta.md-typeset a:hover {
 }
 .md-header__title {
   flex-grow:1;
-  font-size:.9rem;
+  font-size:.95rem;
   /*height:2.4rem;*/
   /*line-height:2.4rem*/
   padding: 1rem 0;
