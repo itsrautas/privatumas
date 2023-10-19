@@ -703,6 +703,24 @@ document.getElementById("navigacija").innerHTML =
       '</a>'+
     '</li>'+
 
+
+
+
+
+
+
+'<li class="md-nav__item">'+
+      '<a href="https://itsrautas.github.io/privatumas/kategorija/telefonas.html" class="md-nav__link">'+
+        
+  
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.523 15.341a1 1 0 0 1 0-1.999 1 1 0 0 1 0 2m-11.046 0a1 1 0 0 1 0-2 1 1 0 0 1 0 2m11.405-6.02 1.997-3.46a.416.416 0 0 0-.152-.567.416.416 0 0 0-.568.152L17.137 8.95c-1.547-.706-3.284-1.1-5.137-1.1s-3.59.394-5.137 1.1L4.841 5.447a.416.416 0 0 0-.568-.152.416.416 0 0 0-.152.567l1.997 3.46C2.688 11.186.343 14.658 0 18.76h24c-.344-4.102-2.69-7.574-6.119-9.44"/></svg>'+
+  
+  '<span class="md-ellipsis">Programėlių parduotuvės</span>'+
+  
+  
+      '</a>'+
+    '</li>'+
+
 		  
 
 
@@ -853,23 +871,6 @@ document.getElementById("navigacija").innerHTML =
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m20.2 5.9.8-.8C19.6 3.7 17.8 3 16 3c-1.8 0-3.6.7-5 2.1l.8.8C13 4.8 14.5 4.2 16 4.2s3 .6 4.2 1.7m-.9.8c-.9-.9-2.1-1.4-3.3-1.4-1.2 0-2.4.5-3.3 1.4l.8.8c.7-.7 1.6-1 2.5-1 .9 0 1.8.3 2.5 1l.8-.8M19 13h-2V9h-2v4H5a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2M8 18H6v-2h2v2m3.5 0h-2v-2h2v2m3.5 0h-2v-2h2v2Z"/></svg>'+
   
   '<span class="md-ellipsis">Android įrankiai</span>'+
-  
-  
-      '</a>'+
-    '</li>'+
-
-
-
-
-
-
-'<li class="md-nav__item">'+
-      '<a href="https://itsrautas.github.io/privatumas/kategorija/telefonas.html" class="md-nav__link">'+
-        
-  
-    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.523 15.341a1 1 0 0 1 0-1.999 1 1 0 0 1 0 2m-11.046 0a1 1 0 0 1 0-2 1 1 0 0 1 0 2m11.405-6.02 1.997-3.46a.416.416 0 0 0-.152-.567.416.416 0 0 0-.568.152L17.137 8.95c-1.547-.706-3.284-1.1-5.137-1.1s-3.59.394-5.137 1.1L4.841 5.447a.416.416 0 0 0-.568-.152.416.416 0 0 0-.152.567l1.997 3.46C2.688 11.186.343 14.658 0 18.76h24c-.344-4.102-2.69-7.574-6.119-9.44"/></svg>'+
-  
-  '<span class="md-ellipsis">App Stores</span>'+
   
   
       '</a>'+
