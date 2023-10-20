@@ -1273,7 +1273,7 @@ html .md-footer-meta.md-typeset a:hover {
 .md-header {
   /*background-color: rgb(24, 26, 27);*/
   background-color: rgb(27, 30, 31);
-  border-bottom-color: rgb(60, 65, 68);
+  border-bottom: 1px solid rgb(60, 65, 68);
   color:var(--md-primary-bg-color);
   display:block;
   left:0;
