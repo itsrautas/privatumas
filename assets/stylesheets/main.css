@@ -217,7 +217,7 @@ pre {
   margin: 25px 0;
 }
 .md-typeset a {
-  color:var(--md-typeset-a-color);
+  color: rgb(206, 202, 195);
   word-break:break-word
 }
 .md-typeset a,
