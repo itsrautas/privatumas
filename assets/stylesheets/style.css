@@ -38,7 +38,7 @@ h5.app {
 /* Cover images */
 .center-cropped {
     width: 100%;
-    height: 150px;
+    height: 125px;
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
